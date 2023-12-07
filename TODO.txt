@@ -1,0 +1,3 @@
+Give an error if a Label Name is too long.
+Make sure tries are not stopped until 2 exact files are produced in a row.
+	See variable "differentResult" to implement this.
